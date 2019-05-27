@@ -17,7 +17,9 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.util.CellAddress;
-import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFDrawing;
+import org.apache.poi.xssf.usermodel.XSSFShape;
+import org.apache.poi.xssf.usermodel.XSSFSimpleShape;
 
 import jp.co.run.tool.abstracts.AbstractReadFile;
 import jp.co.run.tool.common.CommonConsts;
@@ -56,7 +58,19 @@ public class ReadFile extends AbstractReadFile<String> {
                 // Check Sheet not null.
                 if (mySheet != null) {
                     Iterator<?> rowIterator = mySheet.rowIterator();
-
+                    XSSFDrawing drawing = (XSSFDrawing)mySheet.getDrawingPatriarch();
+                    if(drawing != null) {
+                        for (XSSFShape shape : drawing.getShapes()) {
+                            if (shape instanceof XSSFSimpleShape) {
+                                    System.out.println(((XSSFSimpleShape)shape).getCTShape());
+                                    System.out.println(((XSSFSimpleShape)shape).getText());
+                                    if (CommonProperties.isVietnameseChecked && CommonUtils.isVietnamese(((XSSFSimpleShape)shape).getText())) {
+                                        System.out.println("Sheet : " + nameSheet + " - Cell : " + ((XSSFSimpleShape)shape).getParent() + " content contains Vietnamese " + " - Value: " + ((XSSFSimpleShape)shape).getText());
+                                        errorResult += "\nSheet : " + nameSheet + " - Cell : " + ((XSSFSimpleShape)shape).getParent() + " content contains Vietnamese " + " - Value: " + ((XSSFSimpleShape)shape).getText();
+                                    }
+                               }
+                        }
+                    }
                     // Check active cell of current sheet
                     if (CommonProperties.isCellChecked && mySheet.getActiveCell() != CellAddress.A1) {
                         System.out.println("Sheet : " + nameSheet + " Active cell isn't exactly : " + mySheet.getActiveCell());
