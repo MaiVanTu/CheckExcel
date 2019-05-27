@@ -1,0 +1,26 @@
+
+==========================================================
+test-hssf.xls
+Sheet : Cover  Active cell isn't exactly : A1
+Sheet : Cover  - Cell : A3 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : A3 font size isn't exactly - Size : 11
+Sheet : Cover  - Cell : B3 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : B3 font size isn't exactly - Size : 11
+Sheet : Cover  - Cell : C3 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : C3 font size isn't exactly - Size : 11
+Sheet : Cover  - Cell : D3 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : D3 font size isn't exactly - Size : 11
+Sheet : Cover  - Cell : E3 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : E3 font size isn't exactly - Size : 11
+Sheet : Cover  - Cell : A4 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : A4 font size isn't exactly - Size : 11
+Sheet : Cover  - Cell : B4 content contains Vietnamese  - Value: 9/9/2018 ư
+Sheet : Cover  - Cell : B4 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : B4 font size isn't exactly - Size : 11
+Sheet : Cover  - Cell : D9 content contains Vietnamese  - Value: chữ tiếng việt
+Sheet : Cover  - Cell : D9 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : D9 font size isn't exactly - Size : 11
+Sheet : Cover  - Cell : D10 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : D10 font size isn't exactly - Size : 11
+Sheet : Cover  - Cell : D74 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : D74 font size isn't exactly - Size : 11

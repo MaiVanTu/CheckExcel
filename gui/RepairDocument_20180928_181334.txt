@@ -1,0 +1,4 @@
+
+==========================================================
+test-hssf.xls
+Sheet : Cover  Active cell isn't exactly : A1

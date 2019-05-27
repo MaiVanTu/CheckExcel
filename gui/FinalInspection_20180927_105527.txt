@@ -1,0 +1,762 @@
+
+==========================================================
+GMO_DigitalLab_BikeShare_FrontEnd_HideRow_詳細画面.xls
+Active sheet isn't exactly. Current active sheet is Testcase_PC
+Sheet : Cover Active cell isn't exactly : C3
+Sheet : Overview Active cell isn't exactly : D3
+Sheet : Overview - Cell : B5 font size isn't exactly - Size : 18
+Sheet : Summary Active cell isn't exactly : B2
+Sheet : Summary - Cell : C5 font size isn't exactly - Size : 18
+Sheet : Testcase_PC Active cell isn't exactly : A15
+Sheet : Testcase_PC - Cell : I10 font size isn't exactly - Size : 18
+Sheet : Testcase_PC - Cell : A15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C15 content contains Vietnamese  - Value: Check UI ngôn ngữ tiếng Nhật
+Sheet : Testcase_PC - Cell : C15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G15 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H15 content contains Vietnamese  - Value: 1. Check layout của các item:
+ + Breabcrumb
+ + Title
+ + Image
+ +Google map 
+Sheet : Testcase_PC - Cell : H15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I15 content contains Vietnamese  - Value: 1. Verify layout hiển thị đúng format theo design.
+1. Verify các item hiển thị tiếng nhật
+1. Layout không bị vỡ
+Sheet : Testcase_PC - Cell : I15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C16 content contains Vietnamese  - Value: Check UI ngôn ngữ tiếng Anh
+Sheet : Testcase_PC - Cell : C16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G16 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H16 content contains Vietnamese  - Value: 1. Check layout của các item:
+ + Breabcrumb
+ + Title
+ + Image
+ +Google map 
+Sheet : Testcase_PC - Cell : H16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I16 content contains Vietnamese  - Value: 1. Verify layout hiển thị đúng format theo design.
+1. Verify các item hiển thị tiếng anh
+1. Layout không bị vỡ
+Sheet : Testcase_PC - Cell : I16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G18 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I18 content contains Vietnamese  - Value: 1.  Di chuyển đến màn hình [TOP]
+Sheet : Testcase_PC - Cell : I18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G19 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H19 content contains Vietnamese  - Value: 1. Check image default của Slide bar
+Sheet : Testcase_PC - Cell : H19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I19 content contains Vietnamese  - Value: 1. Hiển thị image default được get từ field: "post.image1"
+Sheet : Testcase_PC - Cell : I19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C20 content contains Vietnamese  - Value: Slide tự động
+Sheet : Testcase_PC - Cell : C20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G20 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Có 2 image: "post.image1", "post.image2"
+Sheet : Testcase_PC - Cell : G20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H20 content contains Vietnamese  - Value: 1. Check slide tự động 
+Sheet : Testcase_PC - Cell : H20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I20 content contains Vietnamese  - Value: 1. Img được slide tự động sau 3 giây
+Sheet : Testcase_PC - Cell : I20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G21 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Có 4 image được get từ fields: "post.image1","post.image2", "post.image3", "post.image4"
+-Đang hiển thị image: "post.image2"
+Sheet : Testcase_PC - Cell : G21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I21 content contains Vietnamese  - Value: 1. Chuyển sang Image tiếp theo: "post.image3"
+Sheet : Testcase_PC - Cell : I21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G22 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Có 4 image được get từ fields: "post.image1", "post.image2", "post.image3", "post.image4"
+-Đang hiển thị image: "post.image4"
+Sheet : Testcase_PC - Cell : G22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I22 content contains Vietnamese  - Value: 1. Chuyển sang Image tiếp theo: "post.image1"
+Sheet : Testcase_PC - Cell : I22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G23 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Có 4 image được get từ fields: "post.image1", "post.image2", "post.image3", "post.image4"
+-Đang hiển thị image: "post.image2"
+Sheet : Testcase_PC - Cell : G23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I23 content contains Vietnamese  - Value: 1. Chuyển sang Image trước đó: "post.image1"
+Sheet : Testcase_PC - Cell : I23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G24 content contains Vietnamese  - Value: - Page 「おススメ投稿＞一覧」 được load thành công
+- Có 4 image được get từ fields: "post.image1", "post.image2", "post.image3", "post.image4"
+-Đang hiển thị image: "post.image1"
+Sheet : Testcase_PC - Cell : G24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I24 content contains Vietnamese  - Value: 1. Chuyển sang Image trước đó: "post.image4"
+Sheet : Testcase_PC - Cell : I24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B25 content contains Vietnamese  - Value: Check spot hiển thị
+Sheet : Testcase_PC - Cell : B25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G25 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I25 content contains Vietnamese  - Value: 1. Like number được get từ DB field: "post.likeCount"
+Sheet : Testcase_PC - Cell : I25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D26 content contains Vietnamese  - Value: Đã đăng nhập
+Sheet : Testcase_PC - Cell : D26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G26 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Checkbox [ Like number] : uncheck
+- DB field "post.likeCount" có giá trị : 5
+Sheet : Testcase_PC - Cell : G26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I26 content contains Vietnamese  - Value: 1. Thay đổi trang thái checkbox [Like number]: Checked
+1. Thay đổi field "post.likeCount": 6
+Sheet : Testcase_PC - Cell : I26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G27 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Checkbox [ Like number] : checked
+- DB field "post.likeCount" có giá trị : 5
+Sheet : Testcase_PC - Cell : G27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I27 content contains Vietnamese  - Value: 1. Thay đổi trang thái checkbox [Like number]: Uncheck
+1. Thay đổi field "post.likeCount": 4
+Sheet : Testcase_PC - Cell : I27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D28 content contains Vietnamese  - Value: Chưa đăng nhập
+Sheet : Testcase_PC - Cell : D28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G28 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Checkbox [ Like number] : uncheck
+- DB field "post.likeCount" có giá trị : 5
+Sheet : Testcase_PC - Cell : G28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I28 content contains Vietnamese  - Value: 1. Thay đổi trang thái checkbox [Like number]: Checked
+1. Giữ nguyên field "post.likeCount": 5
+Sheet : Testcase_PC - Cell : I28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A29 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G29 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Checkbox [ Like number] : checked
+- DB field "post.likeCount" có giá trị : 5
+Sheet : Testcase_PC - Cell : G29 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H29 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I29 content contains Vietnamese  - Value: 1. Thay đổi trang thái checkbox [Like number]: Uncheck
+1. Giữ nguyên field "post.likeCount": 5
+Sheet : Testcase_PC - Cell : I29 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G30 content contains Vietnamese  - Value: - Page 「詳細画面」được load thành công
+Sheet : Testcase_PC - Cell : G30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I30 content contains Vietnamese  - Value: 1. Share bài viết bằng [Twitter]
+Sheet : Testcase_PC - Cell : I30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G31 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I31 content contains Vietnamese  - Value: 1. Share bài viết bằng [Facebook]
+Sheet : Testcase_PC - Cell : I31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G32 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I32 content contains Vietnamese  - Value: 1. Title được get từ DB field: "post.title"
+Sheet : Testcase_PC - Cell : I32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G33 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I33 content contains Vietnamese  - Value: 1. Appeal Message được get từ DB field : "post.appealMessage"
+Sheet : Testcase_PC - Cell : I33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D34 content contains Vietnamese  - Value: Trường  hợp traslate 1 lần
+Sheet : Testcase_PC - Cell : D34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G34 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Ngôn ngữ gốc là tiếng việt
+- Ngôn ngữ đang hiển thị là tiếng việt
+Sheet : Testcase_PC - Cell : G34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I34 content contains Vietnamese  - Value: 1. Traslate nội dung hiển thị sang tiếng nhật
+Sheet : Testcase_PC - Cell : I34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D35 content contains Vietnamese  - Value: Trường  hợp traslate 2 lần
+Sheet : Testcase_PC - Cell : D35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G35 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Ngôn ngữ gốc là tiếng việt
+- Ngôn ngữ đang hiển thị là nhật
+Sheet : Testcase_PC - Cell : G35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I35 content contains Vietnamese  - Value: 1. Traslate nội dung hiển thị sang tiếng anh
+Sheet : Testcase_PC - Cell : I35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D36 content contains Vietnamese  - Value: Trường  hợp traslate 3 lần
+Sheet : Testcase_PC - Cell : D36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G36 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Ngôn ngữ gốc là tiếng việt
+- Ngôn ngữ đang hiển thị là anh
+Sheet : Testcase_PC - Cell : G36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I36 content contains Vietnamese  - Value: 1. Traslate nội dung hiển thị sang tiếng việt
+Sheet : Testcase_PC - Cell : I36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G37 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I37 content contains Vietnamese  - Value: 1. Ghim được get từ DB fields: "post.postLat" và "postLong"
+Sheet : Testcase_PC - Cell : I37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B38 content contains Vietnamese  - Value: Check người post
+Sheet : Testcase_PC - Cell : B38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G38 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I38 content contains Vietnamese  - Value: 1, Image được get từ DB fields: "account.image1"
+Sheet : Testcase_PC - Cell : I38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G39 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I39 content contains Vietnamese  - Value: 1, Image được get từ DB field: "account.name"
+Sheet : Testcase_PC - Cell : I39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C40 content contains Vietnamese  - Value: Text [Ngày  tạo post]
+Sheet : Testcase_PC - Cell : C40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G40 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H40 content contains Vietnamese  - Value: 1. Check text [Ngày tạo post]
+Sheet : Testcase_PC - Cell : H40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I40 content contains Vietnamese  - Value: 1. Text [Ngày tạo post] được get từ DB field: "post.createdDate"
+Sheet : Testcase_PC - Cell : I40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K40 font size isn't exactly - Size : 11
+Sheet : Testcase_SP Active cell isn't exactly : G15
+Sheet : Testcase_SP - Cell : I10 font size isn't exactly - Size : 18
+Sheet : Testcase_SP - Cell : A15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G15 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H15 content contains Vietnamese  - Value: 1. Check layout của các item:
+ + Breabcrumb
+ + Title
+ + Image
+ +Google map 
+Sheet : Testcase_SP - Cell : H15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I15 content contains Vietnamese  - Value: 
+1. Verify layout hiển thị đúng format theo design.
+1. Verify các item hiển thị tiếng nhật
+ 1. Layout không bị vỡ
+
+Sheet : Testcase_SP - Cell : I15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G16 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H16 content contains Vietnamese  - Value: 1. Check layout của các item:
+ + Breabcrumb
+ + Title
+ + Image
+ +Google map 
+Sheet : Testcase_SP - Cell : H16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I16 content contains Vietnamese  - Value: 
+1. Verify layout hiển thị đúng format theo design.
+1. Verify các item hiển thị tiếng anh
+ 1. Layout không bị vỡ
+
+Sheet : Testcase_SP - Cell : I16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B18 content contains Vietnamese  - Value: Trường hợp có tác động bên ngoài
+Sheet : Testcase_SP - Cell : B18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C18 content contains Vietnamese  - Value: Trường hợp có cuộc gọi đến
+Sheet : Testcase_SP - Cell : C18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G18 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+- Có cuộc gọi đến
+Sheet : Testcase_SP - Cell : G18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H18 content contains Vietnamese  - Value: 1. Tắt cuộc gọi
+Sheet : Testcase_SP - Cell : H18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I18 content contains Vietnamese  - Value: 1. Page 「詳細画面」vẫn hoạt động bình thường.
+Sheet : Testcase_SP - Cell : I18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C19 content contains Vietnamese  - Value: Trường hợp có báo thức
+Sheet : Testcase_SP - Cell : C19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G19 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+- Có báo thức
+Sheet : Testcase_SP - Cell : G19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H19 content contains Vietnamese  - Value: 1. Tắt báo thức
+Sheet : Testcase_SP - Cell : H19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I19 content contains Vietnamese  - Value: 1. Page 「詳細画面」vẫn hoạt động bình thường.
+Sheet : Testcase_SP - Cell : I19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B20 content contains Vietnamese  - Value: Trường hợp nhấn button Back
+Sheet : Testcase_SP - Cell : B20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G20 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H20 content contains Vietnamese  - Value: 1. Tap vào button Back (hard key)
+Sheet : Testcase_SP - Cell : H20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I20 content contains Vietnamese  - Value: 1. Back về màn hình 「TOP」
+Sheet : Testcase_SP - Cell : I20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B21 content contains Vietnamese  - Value: Trường hợp nhấn button Home
+Sheet : Testcase_SP - Cell : B21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G21 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H21 content contains Vietnamese  - Value: 1. Tap vào button HOME (hard key)
+ 2. Tap vào app BikeShare
+Sheet : Testcase_SP - Cell : H21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I21 content contains Vietnamese  - Value: 2. Hiển thị page 「詳細画面」 page hoạt động bình thường.
+Sheet : Testcase_SP - Cell : I21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B22 content contains Vietnamese  - Value: Trường hợp mạng yếu
+Sheet : Testcase_SP - Cell : B22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G22 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+- Mạng yếu
+Sheet : Testcase_SP - Cell : G22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H22 content contains Vietnamese  - Value: 1 Tap vào Linktext [原文で表示する（翻訳：Google）]
+Sheet : Testcase_SP - Cell : H22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I22 content contains Vietnamese  - Value: 1. Di chuyển đến màn hình lỗi
+Sheet : Testcase_SP - Cell : I22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B23 content contains Vietnamese  - Value: Trường hợp mất mạng
+Sheet : Testcase_SP - Cell : B23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G23 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H23 content contains Vietnamese  - Value: 1 Tap vào Linktext [原文で表示する（翻訳：Google）]
+Sheet : Testcase_SP - Cell : H23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I23 content contains Vietnamese  - Value: 1. Di chuyển đến màn hình lỗi
+Sheet : Testcase_SP - Cell : I23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B24 content contains Vietnamese  - Value: Trường hợp kill app
+Sheet : Testcase_SP - Cell : B24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C24 content contains Vietnamese  - Value: Trường hợp auto login
+Sheet : Testcase_SP - Cell : C24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G24 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H24 content contains Vietnamese  - Value: 1. Thực hiện thao tác kill app.
+ 2. Tap vào app BikeShare
+Sheet : Testcase_SP - Cell : H24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I24 content contains Vietnamese  - Value: 1. Di chuyển đến màn hình TOP
+Sheet : Testcase_SP - Cell : I24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A25 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C25 content contains Vietnamese  - Value: Trường hợp không auto login
+Sheet : Testcase_SP - Cell : C25 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G25 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G25 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I25 content contains Vietnamese  - Value: 1. Di chuyển đến màn hình Login
+Sheet : Testcase_SP - Cell : I25 font size isn't exactly - Size : 11
+==========================================================
+GMO_DigitalLab_BikeShare_FrontEnd_HideSheet.xls
+Active sheet isn't exactly. Current active sheet is Testcase_PC
+Sheet : Cover Active cell isn't exactly : C3
+Sheet : Overview Active cell isn't exactly : D3
+Sheet : Overview - Cell : B5 font size isn't exactly - Size : 18
+Sheet : Summary Active cell isn't exactly : B2
+Sheet : Summary - Cell : C5 font size isn't exactly - Size : 18
+Sheet : Testcase_PC Active cell isn't exactly : A15
+Sheet : Testcase_PC - Cell : I10 font size isn't exactly - Size : 18
+Sheet : Testcase_PC - Cell : A15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C15 content contains Vietnamese  - Value: Check UI ngôn ngữ tiếng Nhật
+Sheet : Testcase_PC - Cell : C15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G15 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H15 content contains Vietnamese  - Value: 1. Check layout của các item:
+ + Breabcrumb
+ + Title
+ + Image
+ +Google map 
+Sheet : Testcase_PC - Cell : H15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I15 content contains Vietnamese  - Value: 1. Verify layout hiển thị đúng format theo design.
+1. Verify các item hiển thị tiếng nhật
+1. Layout không bị vỡ
+Sheet : Testcase_PC - Cell : I15 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C16 content contains Vietnamese  - Value: Check UI ngôn ngữ tiếng Anh
+Sheet : Testcase_PC - Cell : C16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G16 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H16 content contains Vietnamese  - Value: 1. Check layout của các item:
+ + Breabcrumb
+ + Title
+ + Image
+ +Google map 
+Sheet : Testcase_PC - Cell : H16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I16 content contains Vietnamese  - Value: 1. Verify layout hiển thị đúng format theo design.
+1. Verify các item hiển thị tiếng anh
+1. Layout không bị vỡ
+Sheet : Testcase_PC - Cell : I16 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G18 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I18 content contains Vietnamese  - Value: 1.  Di chuyển đến màn hình [TOP]
+Sheet : Testcase_PC - Cell : I18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K18 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G19 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H19 content contains Vietnamese  - Value: 1. Check image default của Slide bar
+Sheet : Testcase_PC - Cell : H19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I19 content contains Vietnamese  - Value: 1. Hiển thị image default được get từ field: "post.image1"
+Sheet : Testcase_PC - Cell : I19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K19 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C20 content contains Vietnamese  - Value: Slide tự động
+Sheet : Testcase_PC - Cell : C20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G20 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Có 2 image: "post.image1", "post.image2"
+Sheet : Testcase_PC - Cell : G20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H20 content contains Vietnamese  - Value: 1. Check slide tự động 
+Sheet : Testcase_PC - Cell : H20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I20 content contains Vietnamese  - Value: 1. Img được slide tự động sau 3 giây
+Sheet : Testcase_PC - Cell : I20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K20 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G21 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Có 4 image được get từ fields: "post.image1","post.image2", "post.image3", "post.image4"
+-Đang hiển thị image: "post.image2"
+Sheet : Testcase_PC - Cell : G21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I21 content contains Vietnamese  - Value: 1. Chuyển sang Image tiếp theo: "post.image3"
+Sheet : Testcase_PC - Cell : I21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K21 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G22 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Có 4 image được get từ fields: "post.image1", "post.image2", "post.image3", "post.image4"
+-Đang hiển thị image: "post.image4"
+Sheet : Testcase_PC - Cell : G22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I22 content contains Vietnamese  - Value: 1. Chuyển sang Image tiếp theo: "post.image1"
+Sheet : Testcase_PC - Cell : I22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K22 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G23 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Có 4 image được get từ fields: "post.image1", "post.image2", "post.image3", "post.image4"
+-Đang hiển thị image: "post.image2"
+Sheet : Testcase_PC - Cell : G23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I23 content contains Vietnamese  - Value: 1. Chuyển sang Image trước đó: "post.image1"
+Sheet : Testcase_PC - Cell : I23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K23 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G24 content contains Vietnamese  - Value: - Page 「おススメ投稿＞一覧」 được load thành công
+- Có 4 image được get từ fields: "post.image1", "post.image2", "post.image3", "post.image4"
+-Đang hiển thị image: "post.image1"
+Sheet : Testcase_PC - Cell : G24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I24 content contains Vietnamese  - Value: 1. Chuyển sang Image trước đó: "post.image4"
+Sheet : Testcase_PC - Cell : I24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K24 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B25 content contains Vietnamese  - Value: Check spot hiển thị
+Sheet : Testcase_PC - Cell : B25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G25 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I25 content contains Vietnamese  - Value: 1. Like number được get từ DB field: "post.likeCount"
+Sheet : Testcase_PC - Cell : I25 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D26 content contains Vietnamese  - Value: Đã đăng nhập
+Sheet : Testcase_PC - Cell : D26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G26 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Checkbox [ Like number] : uncheck
+- DB field "post.likeCount" có giá trị : 5
+Sheet : Testcase_PC - Cell : G26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I26 content contains Vietnamese  - Value: 1. Thay đổi trang thái checkbox [Like number]: Checked
+1. Thay đổi field "post.likeCount": 6
+Sheet : Testcase_PC - Cell : I26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K26 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G27 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Checkbox [ Like number] : checked
+- DB field "post.likeCount" có giá trị : 5
+Sheet : Testcase_PC - Cell : G27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I27 content contains Vietnamese  - Value: 1. Thay đổi trang thái checkbox [Like number]: Uncheck
+1. Thay đổi field "post.likeCount": 4
+Sheet : Testcase_PC - Cell : I27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K27 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D28 content contains Vietnamese  - Value: Chưa đăng nhập
+Sheet : Testcase_PC - Cell : D28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G28 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Checkbox [ Like number] : uncheck
+- DB field "post.likeCount" có giá trị : 5
+Sheet : Testcase_PC - Cell : G28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I28 content contains Vietnamese  - Value: 1. Thay đổi trang thái checkbox [Like number]: Checked
+1. Giữ nguyên field "post.likeCount": 5
+Sheet : Testcase_PC - Cell : I28 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A29 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G29 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Checkbox [ Like number] : checked
+- DB field "post.likeCount" có giá trị : 5
+Sheet : Testcase_PC - Cell : G29 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H29 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I29 content contains Vietnamese  - Value: 1. Thay đổi trang thái checkbox [Like number]: Uncheck
+1. Giữ nguyên field "post.likeCount": 5
+Sheet : Testcase_PC - Cell : I29 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G30 content contains Vietnamese  - Value: - Page 「詳細画面」được load thành công
+Sheet : Testcase_PC - Cell : G30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I30 content contains Vietnamese  - Value: 1. Share bài viết bằng [Twitter]
+Sheet : Testcase_PC - Cell : I30 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G31 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I31 content contains Vietnamese  - Value: 1. Share bài viết bằng [Facebook]
+Sheet : Testcase_PC - Cell : I31 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G32 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I32 content contains Vietnamese  - Value: 1. Title được get từ DB field: "post.title"
+Sheet : Testcase_PC - Cell : I32 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G33 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I33 content contains Vietnamese  - Value: 1. Appeal Message được get từ DB field : "post.appealMessage"
+Sheet : Testcase_PC - Cell : I33 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D34 content contains Vietnamese  - Value: Trường  hợp traslate 1 lần
+Sheet : Testcase_PC - Cell : D34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G34 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Ngôn ngữ gốc là tiếng việt
+- Ngôn ngữ đang hiển thị là tiếng việt
+Sheet : Testcase_PC - Cell : G34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I34 content contains Vietnamese  - Value: 1. Traslate nội dung hiển thị sang tiếng nhật
+Sheet : Testcase_PC - Cell : I34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K34 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D35 content contains Vietnamese  - Value: Trường  hợp traslate 2 lần
+Sheet : Testcase_PC - Cell : D35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G35 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Ngôn ngữ gốc là tiếng việt
+- Ngôn ngữ đang hiển thị là nhật
+Sheet : Testcase_PC - Cell : G35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I35 content contains Vietnamese  - Value: 1. Traslate nội dung hiển thị sang tiếng anh
+Sheet : Testcase_PC - Cell : I35 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : D36 content contains Vietnamese  - Value: Trường  hợp traslate 3 lần
+Sheet : Testcase_PC - Cell : D36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G36 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+- Ngôn ngữ gốc là tiếng việt
+- Ngôn ngữ đang hiển thị là anh
+Sheet : Testcase_PC - Cell : G36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I36 content contains Vietnamese  - Value: 1. Traslate nội dung hiển thị sang tiếng việt
+Sheet : Testcase_PC - Cell : I36 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G37 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I37 content contains Vietnamese  - Value: 1. Ghim được get từ DB fields: "post.postLat" và "postLong"
+Sheet : Testcase_PC - Cell : I37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K37 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : B38 content contains Vietnamese  - Value: Check người post
+Sheet : Testcase_PC - Cell : B38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G38 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I38 content contains Vietnamese  - Value: 1, Image được get từ DB fields: "account.image1"
+Sheet : Testcase_PC - Cell : I38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K38 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G39 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I39 content contains Vietnamese  - Value: 1, Image được get từ DB field: "account.name"
+Sheet : Testcase_PC - Cell : I39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K39 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : A40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : C40 content contains Vietnamese  - Value: Text [Ngày  tạo post]
+Sheet : Testcase_PC - Cell : C40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : G40 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_PC - Cell : G40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : H40 content contains Vietnamese  - Value: 1. Check text [Ngày tạo post]
+Sheet : Testcase_PC - Cell : H40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : I40 content contains Vietnamese  - Value: 1. Text [Ngày tạo post] được get từ DB field: "post.createdDate"
+Sheet : Testcase_PC - Cell : I40 font size isn't exactly - Size : 11
+Sheet : Testcase_PC - Cell : K40 font size isn't exactly - Size : 11
+Sheet : Testcase_SP Active cell isn't exactly : G15
+Sheet : Testcase_SP - Cell : I10 font size isn't exactly - Size : 18
+Sheet : Testcase_SP - Cell : A15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G15 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H15 content contains Vietnamese  - Value: 1. Check layout của các item:
+ + Breabcrumb
+ + Title
+ + Image
+ +Google map 
+Sheet : Testcase_SP - Cell : H15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I15 content contains Vietnamese  - Value: 
+1. Verify layout hiển thị đúng format theo design.
+1. Verify các item hiển thị tiếng nhật
+ 1. Layout không bị vỡ
+
+Sheet : Testcase_SP - Cell : I15 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G16 content contains Vietnamese  - Value: - Page 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H16 content contains Vietnamese  - Value: 1. Check layout của các item:
+ + Breabcrumb
+ + Title
+ + Image
+ +Google map 
+Sheet : Testcase_SP - Cell : H16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I16 content contains Vietnamese  - Value: 
+1. Verify layout hiển thị đúng format theo design.
+1. Verify các item hiển thị tiếng anh
+ 1. Layout không bị vỡ
+
+Sheet : Testcase_SP - Cell : I16 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B18 content contains Vietnamese  - Value: Trường hợp có tác động bên ngoài
+Sheet : Testcase_SP - Cell : B18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C18 content contains Vietnamese  - Value: Trường hợp có cuộc gọi đến
+Sheet : Testcase_SP - Cell : C18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G18 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+- Có cuộc gọi đến
+Sheet : Testcase_SP - Cell : G18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H18 content contains Vietnamese  - Value: 1. Tắt cuộc gọi
+Sheet : Testcase_SP - Cell : H18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I18 content contains Vietnamese  - Value: 1. Page 「詳細画面」vẫn hoạt động bình thường.
+Sheet : Testcase_SP - Cell : I18 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C19 content contains Vietnamese  - Value: Trường hợp có báo thức
+Sheet : Testcase_SP - Cell : C19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G19 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+- Có báo thức
+Sheet : Testcase_SP - Cell : G19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H19 content contains Vietnamese  - Value: 1. Tắt báo thức
+Sheet : Testcase_SP - Cell : H19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I19 content contains Vietnamese  - Value: 1. Page 「詳細画面」vẫn hoạt động bình thường.
+Sheet : Testcase_SP - Cell : I19 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B20 content contains Vietnamese  - Value: Trường hợp nhấn button Back
+Sheet : Testcase_SP - Cell : B20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G20 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H20 content contains Vietnamese  - Value: 1. Tap vào button Back (hard key)
+Sheet : Testcase_SP - Cell : H20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I20 content contains Vietnamese  - Value: 1. Back về màn hình 「TOP」
+Sheet : Testcase_SP - Cell : I20 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B21 content contains Vietnamese  - Value: Trường hợp nhấn button Home
+Sheet : Testcase_SP - Cell : B21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G21 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H21 content contains Vietnamese  - Value: 1. Tap vào button HOME (hard key)
+ 2. Tap vào app BikeShare
+Sheet : Testcase_SP - Cell : H21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I21 content contains Vietnamese  - Value: 2. Hiển thị page 「詳細画面」 page hoạt động bình thường.
+Sheet : Testcase_SP - Cell : I21 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B22 content contains Vietnamese  - Value: Trường hợp mạng yếu
+Sheet : Testcase_SP - Cell : B22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G22 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+- Mạng yếu
+Sheet : Testcase_SP - Cell : G22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H22 content contains Vietnamese  - Value: 1 Tap vào Linktext [原文で表示する（翻訳：Google）]
+Sheet : Testcase_SP - Cell : H22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I22 content contains Vietnamese  - Value: 1. Di chuyển đến màn hình lỗi
+Sheet : Testcase_SP - Cell : I22 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B23 content contains Vietnamese  - Value: Trường hợp mất mạng
+Sheet : Testcase_SP - Cell : B23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G23 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H23 content contains Vietnamese  - Value: 1 Tap vào Linktext [原文で表示する（翻訳：Google）]
+Sheet : Testcase_SP - Cell : H23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I23 content contains Vietnamese  - Value: 1. Di chuyển đến màn hình lỗi
+Sheet : Testcase_SP - Cell : I23 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : B24 content contains Vietnamese  - Value: Trường hợp kill app
+Sheet : Testcase_SP - Cell : B24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C24 content contains Vietnamese  - Value: Trường hợp auto login
+Sheet : Testcase_SP - Cell : C24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G24 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : H24 content contains Vietnamese  - Value: 1. Thực hiện thao tác kill app.
+ 2. Tap vào app BikeShare
+Sheet : Testcase_SP - Cell : H24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I24 content contains Vietnamese  - Value: 1. Di chuyển đến màn hình TOP
+Sheet : Testcase_SP - Cell : I24 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : A25 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : C25 content contains Vietnamese  - Value: Trường hợp không auto login
+Sheet : Testcase_SP - Cell : C25 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : G25 content contains Vietnamese  - Value: - Màn hình 「詳細画面」 được load thành công
+Sheet : Testcase_SP - Cell : G25 font size isn't exactly - Size : 11
+Sheet : Testcase_SP - Cell : I25 content contains Vietnamese  - Value: 1. Di chuyển đến màn hình Login
+Sheet : Testcase_SP - Cell : I25 font size isn't exactly - Size : 11
+==========================================================
+ruby-checklist-code-review.xlsx
+Sheet : Cover  Active cell isn't exactly : C15
+Sheet : Cover  - Cell : A4 font isn't exactly - Font : Calibri Light
+Sheet : Cover  - Cell : B4 content contains Vietnamese  - Value: 9/9/2018 ư
+Sheet : Cover  - Cell : B4 font isn't exactly - Font : Calibri Light
+Sheet : Cover  - Cell : D9 content contains Vietnamese  - Value: chữ tiếng việt
+Sheet : Cover  - Cell : D74 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : D74 font size isn't exactly - Size : 11
+==========================================================
+test-hssf.xls
+Sheet : Cover  Active cell isn't exactly : C15
+Sheet : Cover  - Cell : A4 font isn't exactly - Font : Calibri Light
+Sheet : Cover  - Cell : B4 content contains Vietnamese  - Value: 9/9/2018 ư
+Sheet : Cover  - Cell : B4 font isn't exactly - Font : Calibri Light
+Sheet : Cover  - Cell : B5 format date isn't exactly
+Sheet : Cover  - Cell : D9 content contains Vietnamese  - Value: chữ tiếng việt
+Sheet : Cover  - Cell : D74 font isn't exactly - Font : Calibri
+Sheet : Cover  - Cell : D74 font size isn't exactly - Size : 11
